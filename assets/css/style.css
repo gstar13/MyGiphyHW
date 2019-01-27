@@ -1,0 +1,14 @@
+.brady {
+   color:green; 
+}
+#subwrapper {
+    display: flex;
+    padding-top: 20px;
+}
+#start{
+    size: 25px;
+}
+.h1 {
+text-align: center;
+
+}

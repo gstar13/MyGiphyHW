@@ -1,7 +1,7 @@
 $(document).ready(function () {
     $("#topicBox").hide();
     $("#start").on("click", function () {
-      var topics = ["Soccer", "slayer", "Trolls", "Tom Brady", "dog", "sloth", "whaleshark", "wine", "keto", "Raiders"];
+      var topics = ["Soccer", "slayer metal", "Trolls", "Tom Brady", "dog", "sloth", "whaleshark", "wine", "keto", "Raiders"];
       //remove start button
       $("#start").remove();
       $("#topicBox").show();
