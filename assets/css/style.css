@@ -1,14 +1,21 @@
 .brady {
    color:green; 
+   font:bold;
 }
 #subwrapper {
-    display: flex;
+    
     padding-top: 20px;
 }
 #start{
-    size: 25px;
+    size: 20px;
+    
 }
-.h1 {
+#title {
 text-align: center;
+color:purple;
 
+}
+
+body{
+    color:  blue;
 }
