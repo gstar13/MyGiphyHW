@@ -8,14 +8,23 @@
 }
 #start{
     size: 20px;
-    
+  margin-left: 100px;
+
 }
 #title {
 text-align: center;
 color:purple;
+padding: 20px;
+margin-top: 30px;
 
 }
 
 body{
     color:  blue;
+    background-image: url(../images/grey.png);
+    font-size: 25px;
+    font: bold;
+}
+.gifs {
+    display: inline-block;
 }
